@@ -1,0 +1,20 @@
+{
+    "file": "/home/xbalusik/dpai-main2/src/docs_audio_example0_audio_original.wav",
+    "epochs": 5000,
+    "lowest_training_loss": 0.023858845233917236,
+    "last_training_loss": 0.03036012500524521,
+    "lowest_validation_loss": 0.03362123668193817,
+    "last_validation_loss": 0.03911251574754715,
+    "nmse_spectrogram": -17.803091761012443,
+    "nmse_audio": -21.40555206615214,
+    "nmse_audio_masked_part": -7.228200204733532,
+    "nmse_audio_with_original_context": -29.191911363939845,
+    "nmse_audio_masked_part_with_original_context": -29.191911363939845,
+    "pesq_before": 3.690478563308716,
+    "pesq_after": 4.376987457275391,
+    "elapsed_time": "0:19:01",
+    "alpha": 1.0,
+    "beta": 1.0,
+    "gamma": 1.0,
+    "delta": 1.0
+}
